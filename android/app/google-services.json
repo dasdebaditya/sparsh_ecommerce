@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1064385028163",
+    "project_id": "sparsh-flowers-8c15b",
+    "storage_bucket": "sparsh-flowers-8c15b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064385028163:android:ce33d63c099525db21f4f6",
+        "android_client_info": {
+          "package_name": "com.sparshflowers.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064385028163-6l06lqjj8lennbop08o2ea8kp8a1v453.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-qmb-QJjmkJT0KKxOqQ2WHfl-A4OVE2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064385028163-6l06lqjj8lennbop08o2ea8kp8a1v453.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064385028163-3thdo67tekhqq6jhqrl1nlb692kgeeq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sparshflowers.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
