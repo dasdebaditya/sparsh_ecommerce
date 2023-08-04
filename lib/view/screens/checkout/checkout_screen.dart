@@ -200,7 +200,7 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
     );
   }
 
-  Container buttonView(OrderProvider order, bool _selfPickup, LocationProvider address, bool _kmWiseCharge, double _deliveryCharge, BuildContext context) {
+  Container buttonView (OrderProvider order, bool _selfPickup, LocationProvider address, bool _kmWiseCharge, double _deliveryCharge, BuildContext context) {
     return Container(
                   width: 1170,
                   alignment: Alignment.center,
@@ -537,7 +537,7 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
   //   });
   // }
 
-  void _callback(bool isSuccess, String message, String orderID,int addressID) async  {
+  void _callback(bool isSuccess, String message, String orderID,int addressID)  {
     String abc=orderID;
     String ordermsg = "Please continue the payment from the Order Details section";
     if(true) {
